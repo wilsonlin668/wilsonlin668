@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My tech stack</h2>
 
 ###
 
@@ -64,7 +64,24 @@
     <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
         height="36" alt="flutter logo" />
-
 </div>
 
 ###
+<h2 align="left">My social media</h2>
+
+###
+
+<div align="left">
+    <a href="https://dribbble.com/WilsonLin6" style="text-decoration: none;">
+        <img
+            src="./dribbble-icon.svg" 
+            height="36" alt="dribbble logo" />
+    </a>
+    <img width="16" />
+    <a href="https://www.instagram.com/webrosers" style="text-decoration: none;">
+        <img
+            src="./instagram-icon.svg" 
+            height="36" alt="instagram logo" />
+    </a>
+    <img width="16" />
+</div>
