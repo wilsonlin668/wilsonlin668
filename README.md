@@ -71,7 +71,7 @@
 
 ###
 
-<div align="left">
+<!--<div align="left">
     <a href="https://dribbble.com/WilsonLin6" style="text-decoration: none;">
         <img
             src="./dribbble-icon.svg" 
@@ -84,4 +84,4 @@
             height="36" alt="instagram logo" />
     </a>
     <img width="16" />
-</div>
+</div>-->
